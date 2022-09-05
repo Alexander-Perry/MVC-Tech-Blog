@@ -1,0 +1,5 @@
+-- DELETE
+DROP DATABASE IF EXISTS blog_db;
+
+-- CREATE
+CREATE DATABASE blog_db;
